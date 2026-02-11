@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "mutant",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2026-02-11T05:55:29.471853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wie Maak Die Jol Vol (Feat. Isaac Mutant, Knoffel, Jaak Paarl & Scallywag)",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/01_Wie_Maak_Die_Jol_Vol_(Feat._Isaac_Mutant,_Knoffel,_Jaak_Paarl_&_Scallywag)_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mutant Standard",
+      "artist": "Oneohtrix Point Never",
+      "has_synced": false,
+      "path": "select/02_Mutant_Standard_Oneohtrix_Point_Never.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Mutant",
+      "artist": "Trader Horne",
+      "has_synced": false,
+      "path": "select/03_The_Mutant_Trader_Horne.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mutant Ninja Turtle",
+      "artist": "Mike Viola",
+      "has_synced": false,
+      "path": "select/04_Mutant_Ninja_Turtle_Mike_Viola.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No More Rock'n'roll (Koala Fish Mutant Bird Mix)",
+      "artist": "Hellfish feat. Producer",
+      "has_synced": false,
+      "path": "select/05_No_More_Rock'n'roll_(Koala_Fish_Mutant_Bird_Mix)_Hellfish_feat._Producer.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mutant Messiah",
+      "artist": "Mekong Delta",
+      "has_synced": true,
+      "path": "select/06_Mutant_Messiah_Mekong_Delta.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm Watching You [A Mutant Romance]",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": true,
+      "path": "select/07_I'm_Watching_You_[A_Mutant_Romance]_Daryl_Hall_&_John_Oates.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mutant Genius",
+      "artist": "Gorillaz & Space Monkeys",
+      "has_synced": false,
+      "path": "select/08_Mutant_Genius_Gorillaz_&_Space_Monkeys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mutant Genius",
+      "artist": "Gorillaz Space Monkeyz",
+      "has_synced": false,
+      "path": "select/09_Mutant_Genius_Gorillaz_Space_Monkeyz.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting (On-U Sound's Mutant Hifi Cut)",
+      "artist": "Carl Douglas",
+      "has_synced": true,
+      "path": "select/10_Kung_Fu_Fighting_(On-U_Sound's_Mutant_Hifi_Cut)_Carl_Douglas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Partners In Kryme - Turtle Power (From 'Teenage Mutant Ninja Turtles')",
+      "artist": "Partners In Kryme",
+      "has_synced": true,
+      "path": "select/11_Partners_In_Kryme_-_Turtle_Power_(From_'Teenage_Mutant_Ninja_Turtles')_Partners_In_Kryme.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fire - Glenn Rivera Restructure Mutant Disco Edit",
+      "artist": "Lizzy Mercier Descloux",
+      "has_synced": false,
+      "path": "select/12_Fire_-_Glenn_Rivera_Restructure_Mutant_Disco_Edit_Lizzy_Mercier_Descloux.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mutant Genius",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/13_Mutant_Genius_Gorillaz.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rise of the Teenage Mutant Ninja Turtles Main Title",
+      "artist": "Rise of the Teenage Mutant Ninja Turtles",
+      "has_synced": true,
+      "path": "select/14_Rise_of_the_Teenage_Mutant_Ninja_Turtles_Main_Title_Rise_of_the_Teenage_Mutant_Ninja_Turtles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blast (Remixed By Great Mutant Skywheel)",
+      "artist": "Slick Idiot",
+      "has_synced": false,
+      "path": "select/15_Blast_(Remixed_By_Great_Mutant_Skywheel)_Slick_Idiot.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "mutant",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_mutant_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
